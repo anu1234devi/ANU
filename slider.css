@@ -1,0 +1,104 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: sans-serif;
+}
+.out_div{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(179, 78, 204);
+}
+.inner_div{
+height: 150px;
+width: 100%;
+  display: flex;
+  /* align-items: end;   */
+}
+h1{
+    font-size: 100px;
+    }
+.box1{
+height: auto;
+width: 10%;
+display: flex;
+padding-right: 20px;
+padding: 20px;
+justify-content: end;
+background-color: yellow;
+}
+.box2{
+    padding: 30px;
+    background-color: rgb(179, 78, 204);
+color: white;  
+width: 100%;
+padding-left: 5%;
+}
+body{
+    background-color: rgb(179, 78, 204);
+}
+.card-area{
+    display: flex;
+}
+
+.card1{
+    height: 400px;
+width: 25%;
+background-color: white;
+border-radius: 25px;
+margin: 10%;
+margin-top: 5%;
+flex-direction: column;
+    align-items: center;
+/* gap: 10px; */
+}
+h2{
+    font: bolder;
+    font-weight: 800;
+
+}
+
+.ratings .checked{
+    color: rgb(137, 88, 182);
+    margin: 10px 0px 10px 0px;
+}
+.icons{
+    display: flex;
+    gap: 20px;
+    margin-top: 30px;
+}
+.img1{
+    border: 3px solid rgb(145, 93, 194);
+    border-radius: 10px;
+    margin: 20px 0px 20px 0px;
+}
+h4{
+    margin: 10px 0px 10px 20px;
+}
+.name{
+    color: rgb(2, 7, 6);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.web{
+    color: rgb(2, 7, 6);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.star{
+    display: flex;
+}
+.btn1{
+    height: 30px;
+    width: 100px;
+    background-color: rgb(114, 23, 199);
+    color: white;
+    border: 1px solid rgb(102, 17, 182);
+    border-radius: 5px;
+}
+.btn2{
+    height: 30px;
+    width: 100px;
+    background-color: rgb(114, 23, 199);
+    border-radius: 5px;
+    color: white;
+    border: 1px solid rgb(102, 17, 182);
+    margin: 10px 0px 20px 0px;
+}

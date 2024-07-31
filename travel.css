@@ -1,21 +1,52 @@
-body{
-background-image: url(https://lerablog.org/wp-content/uploads/2013/05/travelling-alone.jpg);
+*{
+    margin: 0%;
+    padding: 0%;
+background-image: url(https://i.pinimg.com/originals/2a/8f/2d/2a8f2d9a676f0f5df5887f72984da59a.jpg);
 background-size: cover;
+font-family: 'Times New Roman', Times, serif;
+
 }
-.bar{
-    color: beige;
-    margin-left: 200px;
-    margin-top: 300px;
-    font-size: 300%;
+header{
+    height: 80px;
+    width: 100%;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+img{
+    height: 60px;
+    width: 60px;
+    border-radius: 100px;
+    margin-left: 20px;
+}
+ul{
+    list-style: none;
+    display: flex;
+    font-size:larger;
+    font-weight: 20px;
+}
+.
+
+.barnav{
+     width: 100%;
+      height: 95px;
+border: 1px solid white;
+background-color: white;
+}
+.travel{
     font-weight: bold;
-}
-.navbar{
-color: aliceblue;
-margin-left: 200px;
 font-family: Arial, Helvetica, sans-serif;
+margin: 1%;
+margin-left: 25px;
 }
-.barbar{
-    
-    margin-left: 200px;
-    
+.dess{
+width:5%;
+margin-left: 25px;
+}  
+.find{
+    font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+margin: 1%;
+margin-left: 100px;
 }
