@@ -1,0 +1,22 @@
+
+.box1{
+    height: 450px;
+    width: 20%;
+    display: flex;
+    padding-right: 20px;
+    padding: 20px;
+    justify-content: end;
+    background-color: rgb(141, 20, 211);
+    border-radius: 25px;
+    margin-top: 8%;
+    margin-left: 40%;
+
+}
+.box2{
+padding: 0%;
+margin: 0%;
+  height:200px;
+  width: 50%;
+  background-color: rgb(245, 248, 252);
+ 
+}

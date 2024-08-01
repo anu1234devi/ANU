@@ -1,0 +1,10 @@
+body{
+    background-image: linear-gradient(rgb(167, 103, 204),white)
+}
+.box1{
+height: 400px;
+width: 500px;
+background-color: aliceblue;
+margin-top: 5%;
+margin-left: 30%;
+}

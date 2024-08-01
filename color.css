@@ -1,0 +1,8 @@
+body{
+    background-image: url(http://thewowstyle.com/wp-content/uploads/2015/02/now-i-am-free.jpg);
+    background-size: cover;
+}
+.box{
+background-image: linear-gradient(red,yellow)
+
+}
